@@ -1,0 +1,23 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "webserver",
+  "main": "asincrono.js",
+  "dependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodh12/node_fundamentos.git"
+  },
+  "author": "Diego Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegodh12/node_fundamentos/issues"
+  },
+  "homepage": "https://github.com/diegodh12/node_fundamentos#readme"
+}
